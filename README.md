@@ -27,7 +27,7 @@ Este es el repositorio del proyecto del equipo 5
 
 :point_right: [Reporte PDF](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Reporte/Diabetes.pdf)
 
-Aquí se encuentra un análisis de los datos recopilados.
+Aquí se encuentra el reporte en pdf del análisis de los datos recopilados.
 
 :point_right: [Notebook](https://colab.research.google.com/github/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Proyecto.ipynb#scrollTo=QPrtoTh1EdML)
 
