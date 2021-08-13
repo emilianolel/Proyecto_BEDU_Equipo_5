@@ -174,6 +174,22 @@ Resultando:
 
 Una vez se obtuvo el dataset [\ref{fig:dataset_completo}] procedemos a realizar un análisis exploratorio de los datos.
 
+Se obtiene una descripción general de los campos para mujeres con diabetes, figura [\ref{desc_diabetes}], y mujeres \emph{sanas}, figura [\ref{desc_sana}].
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{desc_diabetes.png}
+	\caption{Descripción del \emph{subdataframe} con los registros de las mujeres con diabetes.}%
+	\label{fig:desc_diabetes}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{desc_sana.png}
+	\caption{Descripción del \emph{subdataframe} con los registros de las mujeres \emph{sanas}.}%
+	\label{fig:desc_sana}
+\end{figure}
+
 Lo primero que se observa es que, del total de la muestra, hay 500 mujeres ``sanas''\footnote{Entiéndase por sanas a mujeres que salieron negativas al examen de detección de la diabetes.} y 268 mujeres con diabetes detectada.
 
 \begin{figure}[H]
@@ -212,6 +228,23 @@ Graficando de nuevo la concurrencia de edades pero ahora separadas según su dia
 
 Como se observa en la figura [\ref{fig:edad_diabetes}] la distribución de mujeres con diabetes según su edad parece tener una distribución distinta a la mostrada en la figura [\ref{fig:edad_no_diabetes}]. Para la primera gráfica [\ref{fig:edad_diabetes}], parece que los casos se distribuyen normalmente\cite{Distro_normal} y para la gráfica [\ref{fig:edad_no_diabetes}] se tiene lo que parece ser un decaimiento exponencial. Esto se debe a que, como ya se mencionó, la mayoría de las mujeres registradas son jóvenes.
 
+Como se menciona en la introducción, uno de los factores de riesgo es la concentración de glucosa en sangre. Por esta razón se obtiene la siguiente gráfica de cajas que se muestra en la figura  [\ref{fig:glucosa_diabetes}].
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth]{glucosa_diabetes.png}
+	\caption{Gráfica de cajas para la concentración de glucosa en sangre de mujeres con diabetes.}%
+	\label{fig:glucosa_diabetes}
+\end{figure}
+
+Por otro lado se muestra la gráfica de cajas para mujeres \emph{sanas}, figura [\ref{fig:glucosa_sanas}].
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth]{glucosa_sanas.png}
+	\caption{Gráfica de cajas para la concentración de glucosa en sangre de mujeres \emph{sanas}.}%
+	\label{fig:glucosa_sanas}
+\end{figure}
 
 
 
