@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628889844 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628890828
+["bibtex Diabetes"] 1628891668 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628891985
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628890827 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
+  "Diabetes.aux" 1628891985 5719 17c1f84319b1d81ca1ace6d0fbf43c74 "pdflatex"
   "bibliografia.bib" 1628889828 1067 3fc760754b3d50a8ae6f51ea5c352d97 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628890826 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628890828
+["pdflatex"] 1628891983 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628891985
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -197,9 +197,9 @@
   "BMI_Glucose.png" 1628882863 62203 9d4d95b7509e866e14cc8a3d80356114 ""
   "BloodPressure_BMI.png" 1628882836 52865 ed7bcef2ec11abe863f54baa0f1bfd51 ""
   "BloodPressure_Glucose.png" 1628882845 55424 3fe94061e19019c657be01a63aa582bf ""
-  "Diabetes.aux" 1628890827 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
-  "Diabetes.bbl" 1628889844 439 042efd8ed3db608d83f0ca19be64dd1e "bibtex Diabetes"
-  "Diabetes.tex" 1628890826 18003 769fa99b5dadd58adf5388879c134831 ""
+  "Diabetes.aux" 1628891985 5719 17c1f84319b1d81ca1ace6d0fbf43c74 "pdflatex"
+  "Diabetes.bbl" 1628891668 439 042efd8ed3db608d83f0ca19be64dd1e "bibtex Diabetes"
+  "Diabetes.tex" 1628891982 19126 8bc4c4033f01980fcc0bea239406f3fa ""
   "Insulin_Glucose.png" 1628882868 40636 45f8d93e427c7961dde4cf87bdb2a6e1 ""
   "Pregnancies_Glucose.png" 1628882875 41321 c02348291fe5e4c99838eb49c1ac5e7d ""
   "SkinThickness_Glucose.png" 1628882880 51019 dbf952ee41308077bde48cc0c26ace09 ""
@@ -214,11 +214,13 @@
   "edad_muestra.png" 1628866597 28808 bf44b9463a134ac93b10bc3858eb32ad ""
   "edad_no_diabetes.png" 1628868284 29303 e9cec4c3b5ac6af8d2729741f90dee5c ""
   "emb_diabetes.png" 1628888308 15010 e86adf6d955c396a53e4db7c6718aa2d ""
+  "gluc.png" 1628891764 7346 03f98c7e59d1c8a87ff27d931e0dd1b5 ""
   "glucosa_bar_diabetes.png" 1628874425 13586 2b2b7d00cf866234617af422a1ab5c0a ""
   "glucosa_bar_sanas.png" 1628874608 14042 c9db36eaa11fcc69abda93b50146d6ab ""
   "glucosa_diabetes.png" 1628870840 14074 33e5cc7f403f620004b468ac055f6652 ""
   "glucosa_sanas.png" 1628872060 13799 a2ddb91be02ea27db832316c4222e05b ""
+  "porc_peso.png" 1628891468 6566 04d4f53b6c5df9d30923de45b09d16fb ""
   (generated)
-  "Diabetes.log"
-  "Diabetes.aux"
   "Diabetes.pdf"
+  "Diabetes.aux"
+  "Diabetes.log"

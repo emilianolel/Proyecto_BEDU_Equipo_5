@@ -817,6 +817,16 @@ INPUT ./BMI_Glucose.png
 INPUT BMI_Glucose.png
 INPUT ./BMI_Glucose.png
 INPUT ./BMI_Glucose.png
+INPUT ./porc_peso.png
+INPUT ./porc_peso.png
+INPUT porc_peso.png
+INPUT ./porc_peso.png
+INPUT ./porc_peso.png
+INPUT ./gluc.png
+INPUT ./gluc.png
+INPUT gluc.png
+INPUT ./gluc.png
+INPUT ./gluc.png
 INPUT ./Diabetes.bbl
 INPUT Diabetes.bbl
 INPUT ./Diabetes.bbl
