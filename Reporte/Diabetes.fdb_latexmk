@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628889844 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628889846
+["bibtex Diabetes"] 1628889844 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628890828
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628889845 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
+  "Diabetes.aux" 1628890827 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
   "bibliografia.bib" 1628889828 1067 3fc760754b3d50a8ae6f51ea5c352d97 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628889844 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628889846
+["pdflatex"] 1628890826 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628890828
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -197,9 +197,9 @@
   "BMI_Glucose.png" 1628882863 62203 9d4d95b7509e866e14cc8a3d80356114 ""
   "BloodPressure_BMI.png" 1628882836 52865 ed7bcef2ec11abe863f54baa0f1bfd51 ""
   "BloodPressure_Glucose.png" 1628882845 55424 3fe94061e19019c657be01a63aa582bf ""
-  "Diabetes.aux" 1628889845 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
+  "Diabetes.aux" 1628890827 5302 d8b3550fa5be2ad54ef198b7ca5c6bcf "pdflatex"
   "Diabetes.bbl" 1628889844 439 042efd8ed3db608d83f0ca19be64dd1e "bibtex Diabetes"
-  "Diabetes.tex" 1628889839 17843 dc95d933ff3c35402aaeab080a73bc18 ""
+  "Diabetes.tex" 1628890826 18003 769fa99b5dadd58adf5388879c134831 ""
   "Insulin_Glucose.png" 1628882868 40636 45f8d93e427c7961dde4cf87bdb2a6e1 ""
   "Pregnancies_Glucose.png" 1628882875 41321 c02348291fe5e4c99838eb49c1ac5e7d ""
   "SkinThickness_Glucose.png" 1628882880 51019 dbf952ee41308077bde48cc0c26ace09 ""
