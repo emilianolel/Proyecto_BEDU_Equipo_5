@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628875597 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628876096
+["bibtex Diabetes"] 1628876159 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628876161
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628876096 3397 18c7f288a1ba7d46303d107ae9604d9c "pdflatex"
+  "Diabetes.aux" 1628876160 3419 abaa3c833fc7bba8044a542d05ad5163 "pdflatex"
   "bibliografia.bib" 1628869349 843 504edf85bab14d503d175fc278e08691 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628876095 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628876096
+["pdflatex"] 1628876159 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628876161
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -26,8 +26,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1616952564 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1616952564 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1616952564 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1616952564 1332 f817c21a1ba54560425663374f1b651a ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1616952564 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1616952564 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1616952564 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1616952564 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -196,9 +194,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1616952564 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1620609914 4885835 225b430335ea75120e4d14f95280dfb9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1620609895 2635856 434078a4a03d44ff23e09e73896b4b6d ""
-  "Diabetes.aux" 1628876096 3397 18c7f288a1ba7d46303d107ae9604d9c "pdflatex"
-  "Diabetes.bbl" 1628875597 243 2b87977dc0c1158290ff5e6f81593772 "bibtex Diabetes"
-  "Diabetes.tex" 1628876093 13202 105c4c71998fc331332d8a9eb8ec1ae8 ""
+  "Diabetes.aux" 1628876160 3419 abaa3c833fc7bba8044a542d05ad5163 "pdflatex"
+  "Diabetes.bbl" 1628876159 243 2b87977dc0c1158290ff5e6f81593772 "bibtex Diabetes"
+  "Diabetes.tex" 1628876157 13204 fd71090b9d029e7f1705d9673d30657e ""
   "bar_diabetes.png" 1628863946 6310 c8f0b8fb04e7b02b01e63702d42fc62b ""
   "dataset_completo.png" 1628861035 30172 b086d9bd8917468f9bbf959dcc89231b ""
   "dataset_limpio.png" 1628860819 24433 8c42bcffc48255acc4fff7e6d6148216 ""
@@ -213,6 +211,6 @@
   "glucosa_diabetes.png" 1628870840 14074 33e5cc7f403f620004b468ac055f6652 ""
   "glucosa_sanas.png" 1628872060 13799 a2ddb91be02ea27db832316c4222e05b ""
   (generated)
-  "Diabetes.pdf"
   "Diabetes.aux"
+  "Diabetes.pdf"
   "Diabetes.log"
