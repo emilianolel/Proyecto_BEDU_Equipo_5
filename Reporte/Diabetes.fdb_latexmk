@@ -1,17 +1,19 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628814715 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628814783
+["bibtex Diabetes"] 1628814715 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628821704
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628814782 253 62dfe9f4ded1b3617343ce55357ae687 "pdflatex"
+  "Diabetes.aux" 1628821704 253 62dfe9f4ded1b3617343ce55357ae687 "pdflatex"
   "bibliografia.bib" 1628814691 811 81ad96b53c6d384ab34e34cef693c891 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628814782 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628814783
+["pdflatex"] 1628821703 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628821704
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
+  "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm" 1616952564 1536 73da8e8f1d2a4c957d51ca133585586b ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1616952564 1536 05df9db6aeccc4eea94fec15c9024f79 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1616952564 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
+  "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1616952564 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1616952564 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1616952564 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1616952564 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -22,6 +24,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1616952564 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1616952564 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1616952564 940 228d6584342e91276bf566bcf9716b83 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1616952564 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1616952564 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1616952564 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1616952564 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -43,8 +46,11 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1616952564 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/share/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm" 1616952564 688 37338d6ab346c2f1466b29e195316aa4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm" 1616952564 684 3a51bd4fd9600428d5264cf25f04bb9a ""
+  "/usr/share/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm" 1616952564 692 1b6510779f0f05e9cbf03e0f6c8361e6 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1616952564 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1616952564 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1616952564 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1616952564 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb" 1616952564 36094 798f80770b3b148ceedd006d487db67c ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1616952564 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1616952564 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -180,10 +186,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1616952564 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1620609914 4885835 225b430335ea75120e4d14f95280dfb9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1620609895 2635856 434078a4a03d44ff23e09e73896b4b6d ""
-  "Diabetes.aux" 1628814782 253 62dfe9f4ded1b3617343ce55357ae687 "pdflatex"
+  "Diabetes.aux" 1628821704 253 62dfe9f4ded1b3617343ce55357ae687 "pdflatex"
   "Diabetes.bbl" 1628814715 49 0eba253fc001332e731e8aba3f23127b "bibtex Diabetes"
-  "Diabetes.tex" 1628814780 2872 d1bd998790e6fec1c67977d2cfdbb93a ""
+  "Diabetes.tex" 1628821702 5119 62588529c237b53eca4012024158badb ""
   (generated)
+  "Diabetes.log"
   "Diabetes.aux"
   "Diabetes.pdf"
-  "Diabetes.log"
