@@ -802,6 +802,16 @@ INPUT ./SkinThickness_Glucose.png
 INPUT SkinThickness_Glucose.png
 INPUT ./SkinThickness_Glucose.png
 INPUT ./SkinThickness_Glucose.png
+INPUT ./BloodPressure_BMI.png
+INPUT ./BloodPressure_BMI.png
+INPUT BloodPressure_BMI.png
+INPUT ./BloodPressure_BMI.png
+INPUT ./BloodPressure_BMI.png
+INPUT ./BMI_Glucose.png
+INPUT ./BMI_Glucose.png
+INPUT BMI_Glucose.png
+INPUT ./BMI_Glucose.png
+INPUT ./BMI_Glucose.png
 INPUT ./Diabetes.bbl
 INPUT Diabetes.bbl
 INPUT ./Diabetes.bbl
