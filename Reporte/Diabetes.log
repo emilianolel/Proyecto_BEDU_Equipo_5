@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 17:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 17:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -582,17 +582,17 @@ Overfull \hbox (12.76915pt too wide) in paragraph at lines 125--126
 []\OT1/cmr/bx/n/10 DiabetesPedigreeFunction: \OT1/cmr/m/n/10 Dia-be-tes pe-di-gree fun-
  []
 
-<dataset_sucio.png, id=20, 596.98032pt x 267.24844pt>
+<dataset_sucio.png, id=19, 596.98032pt x 267.24844pt>
 File: dataset_sucio.png Graphic file (type png)
 <use dataset_sucio.png>
 Package pdftex.def Info: dataset_sucio.png  used on input line 137.
 (pdftex.def)             Requested size: 220.7163pt x 98.80696pt.
-<dataset_limpio.png, id=22, 596.98032pt x 265.74281pt>
+<dataset_limpio.png, id=21, 596.98032pt x 265.74281pt>
 File: dataset_limpio.png Graphic file (type png)
 <use dataset_limpio.png>
 Package pdftex.def Info: dataset_limpio.png  used on input line 146.
 (pdftex.def)             Requested size: 220.7163pt x 98.2503pt.
-<dataset_completo.png, id=23, 716.6775pt x 268.75406pt>
+<dataset_completo.png, id=22, 716.6775pt x 268.75406pt>
 File: dataset_completo.png Graphic file (type png)
 <use dataset_completo.png>
 Package pdftex.def Info: dataset_completo.png  used on input line 167.
@@ -600,32 +600,32 @@ Package pdftex.def Info: dataset_completo.png  used on input line 167.
 LaTeX Info: Redefining \. on input line 177.
 LaTeX Info: Redefining \% on input line 177.
 [2 <./dataset_sucio.png> <./dataset_limpio.png> <./dataset_completo.png>]
-<desc_diabetes.png, id=35, 645.91313pt x 201.75375pt>
+<desc_diabetes.png, id=34, 645.91313pt x 201.75375pt>
 File: desc_diabetes.png Graphic file (type png)
 <use desc_diabetes.png>
 Package pdftex.def Info: desc_diabetes.png  used on input line 181.
 (pdftex.def)             Requested size: 220.7163pt x 68.94016pt.
-<desc_sana.png, id=36, 644.4075pt x 201.00093pt>
+<desc_sana.png, id=35, 644.4075pt x 201.00093pt>
 File: desc_sana.png Graphic file (type png)
 <use desc_sana.png>
 Package pdftex.def Info: desc_sana.png  used on input line 188.
 (pdftex.def)             Requested size: 220.7163pt x 68.84546pt.
-<bar_diabetes.png, id=37, 361.35pt x 361.35pt>
+<bar_diabetes.png, id=36, 361.35pt x 361.35pt>
 File: bar_diabetes.png Graphic file (type png)
 <use bar_diabetes.png>
 Package pdftex.def Info: bar_diabetes.png  used on input line 197.
 (pdftex.def)             Requested size: 159.40579pt x 159.40802pt.
-<edad_muestra.png, id=38, 722.7pt x 722.7pt>
+<edad_muestra.png, id=37, 722.7pt x 722.7pt>
 File: edad_muestra.png Graphic file (type png)
 <use edad_muestra.png>
 Package pdftex.def Info: edad_muestra.png  used on input line 208.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
-<edad_diabetes.png, id=39, 722.7pt x 722.7pt>
+<edad_diabetes.png, id=38, 722.7pt x 722.7pt>
 File: edad_diabetes.png Graphic file (type png)
 <use edad_diabetes.png>
 Package pdftex.def Info: edad_diabetes.png  used on input line 217.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
-<edad_no_diabetes.png, id=40, 722.7pt x 722.7pt>
+<edad_no_diabetes.png, id=39, 722.7pt x 722.7pt>
 File: edad_no_diabetes.png Graphic file (type png)
 <use edad_no_diabetes.png>
 Package pdftex.def Info: edad_no_diabetes.png  used on input line 224.
@@ -743,15 +743,15 @@ LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
- 17490 strings out of 479383
- 335988 string characters out of 5875831
- 636110 words of memory out of 5000000
- 34208 multiletter control sequences out of 15000+600000
- 418045 words of font info for 84 fonts, out of 8000000 for 9000
+ 17492 strings out of 479383
+ 336007 string characters out of 5875831
+ 635114 words of memory out of 5000000
+ 34209 multiletter control sequences out of 15000+600000
+ 418212 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,12n,85p,963b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Diabetes.pdf (8 pages, 678357 bytes).
+ 80i,12n,85p,956b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Diabetes.pdf (8 pages, 676352 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
