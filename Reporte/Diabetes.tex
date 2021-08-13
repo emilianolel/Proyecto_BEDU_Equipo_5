@@ -104,9 +104,8 @@ Teniendo en cuenta el contexto y la importancia del estudio de esta enfermedad s
 \begin{itemize}
 	\item ¿Existe alguna relación entre la diabetes y el grosor de la piel?
 	\item ¿Existe alguna relación de la diabetes con la edad?
-	\item Observar la correlación entre los factores anteriormente mencionados y la diabetes.
+	\item Observar si existe correlación entre los factores anteriormente mencionados y la diabetes.
 	\item ¿Existe alguna relación entre el embarazo y la diabetes?
-	\item ¿Quienes son más propensos a contraer esta enfermedad, hombres o mujeres?
 	\item ¿Qué factor de riesgo hay que tener más en cuenta para evitar contraer diabetes?
 \end{itemize}
 
@@ -246,7 +245,7 @@ Por otro lado se muestra la gráfica de cajas para mujeres \emph{sanas}, figura 
 	\label{fig:glucosa_sanas}
 \end{figure}
 
-Nótese que, para las mujeres sanas, el promedio de la glucosa en sangres es de $110.705\pm24.74\ [mg/dl]$ mientras que  para las mujeres con diabetes el promedio de glucosa en sangre es $142.159\pm29.546\ [mg/dl]$. Sin embargo, algo interesante a resaltar es que, considerando las desviaciones estándar de ambas cantidades, hay mujeres que tienen la glucosa elevada y, sin embargo, no tienen diabetes, lo que quiere decir que, definitivamente, la concentración de diabetes en la sangre, a pesar de ser un factor de riesgo, no es un factor suficiente para el diagnóstico de la enfermedad. Esta conclusión toma aún más fuerza cuando se observan las siguientes gráficas:
+Nótese que, para las mujeres sanas, el promedio de la glucosa en sangres es de $110.705\pm24.74\ [mg/dl]$ mientras que  para las mujeres con diabetes el promedio de glucosa en sangre es $142.159\pm29.546\ [mg/dl]$. Sin embargo, algo interesante a resaltar es que, considerando las desviaciones estándar de ambas cantidades, hay mujeres que tienen la glucosa elevada y, sin embargo, no tienen diabetes, lo que quiere decir que, definitivamente, la concentración de diabetes en la sangre, a pesar de ser un factor de riesgo, no es un factor suficiente para el diagnóstico de la enfermedad. Esta hipótesis toma aún más fuerza cuando se observan las siguientes gráficas:
 
 \begin{figure}[H]
 	\centering
@@ -274,6 +273,24 @@ Para realizar las gráficas, figuras [\ref{fig:glucosa_bar_diabetes}] y [\ref{fi
 \end{equation}
 
 Resulta ser que $128$ mujeres \emph{sanas} deberían tener diabetes por su alto nivel de glucosa en la sangre, sin embargo salieron negativas en la prueba.
+
+Otro resultado a destacar lo muestra la matriz de correlación, tabla [\ref{fig:corr}].
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{corr.png}
+	\caption{Tabla de correlación.}%
+	\label{fig:corr}
+\end{figure}
+
+Números cercanos a 1 indican una correlación lineal positiva entre los campos, números cercanos a -1 indican una correlación lineal negativa entre los campos y números cercanos a 0 indican poca o nula correlación.
+
+Se puede notar que la concentración de glucosa en la sangre es guarda una correlación moderada con los demás campos. Esto quiere decir que, a pesar de no ser un factor de riesgo determinante en el diagnóstico de la diabetes, éste resulta aumentar mucho la probabilidad de esta enfermedad. De igual manera el índice de masa corporal, ``BMI'' en el dataset, muestra una estrecha correlación con los demás factores de riesgo. 
+
+A continuación se muestran unas gráficas de la concentración de glucosa en la sangre con los demás campos de la tabla, diferenciando con color azul los casos de mujeres \emph{sanas} y en naranja los casos de mujeres con diabetes.
+
+
+
 
 
 

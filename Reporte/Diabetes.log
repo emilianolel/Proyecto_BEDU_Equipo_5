@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 13:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -578,93 +578,96 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-Overfull \hbox (12.76915pt too wide) in paragraph at lines 125--126
+Overfull \hbox (12.76915pt too wide) in paragraph at lines 124--125
 []\OT1/cmr/bx/n/10 DiabetesPedigreeFunction: \OT1/cmr/m/n/10 Dia-be-tes pe-di-gree fun-
  []
 
 <dataset_sucio.png, id=20, 596.98032pt x 267.24844pt>
 File: dataset_sucio.png Graphic file (type png)
 <use dataset_sucio.png>
-Package pdftex.def Info: dataset_sucio.png  used on input line 137.
+Package pdftex.def Info: dataset_sucio.png  used on input line 136.
 (pdftex.def)             Requested size: 220.7163pt x 98.80696pt.
 <dataset_limpio.png, id=22, 596.98032pt x 265.74281pt>
 File: dataset_limpio.png Graphic file (type png)
 <use dataset_limpio.png>
-Package pdftex.def Info: dataset_limpio.png  used on input line 146.
+Package pdftex.def Info: dataset_limpio.png  used on input line 145.
 (pdftex.def)             Requested size: 220.7163pt x 98.2503pt.
 <dataset_completo.png, id=23, 716.6775pt x 268.75406pt>
 File: dataset_completo.png Graphic file (type png)
 <use dataset_completo.png>
-Package pdftex.def Info: dataset_completo.png  used on input line 167.
+Package pdftex.def Info: dataset_completo.png  used on input line 166.
 (pdftex.def)             Requested size: 220.7163pt x 82.76747pt.
-LaTeX Info: Redefining \. on input line 177.
-LaTeX Info: Redefining \% on input line 177.
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
 [2 <./dataset_sucio.png> <./dataset_limpio.png> <./dataset_completo.png>]
 <desc_diabetes.png, id=35, 645.91313pt x 201.75375pt>
 File: desc_diabetes.png Graphic file (type png)
 <use desc_diabetes.png>
-Package pdftex.def Info: desc_diabetes.png  used on input line 181.
+Package pdftex.def Info: desc_diabetes.png  used on input line 180.
 (pdftex.def)             Requested size: 220.7163pt x 68.94016pt.
 <desc_sana.png, id=36, 644.4075pt x 201.00093pt>
 File: desc_sana.png Graphic file (type png)
 <use desc_sana.png>
-Package pdftex.def Info: desc_sana.png  used on input line 188.
+Package pdftex.def Info: desc_sana.png  used on input line 187.
 (pdftex.def)             Requested size: 220.7163pt x 68.84546pt.
 <bar_diabetes.png, id=37, 361.35pt x 361.35pt>
 File: bar_diabetes.png Graphic file (type png)
 <use bar_diabetes.png>
-Package pdftex.def Info: bar_diabetes.png  used on input line 197.
+Package pdftex.def Info: bar_diabetes.png  used on input line 196.
 (pdftex.def)             Requested size: 159.40579pt x 159.40802pt.
 <edad_muestra.png, id=38, 722.7pt x 722.7pt>
 File: edad_muestra.png Graphic file (type png)
 <use edad_muestra.png>
-Package pdftex.def Info: edad_muestra.png  used on input line 208.
+Package pdftex.def Info: edad_muestra.png  used on input line 207.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 <edad_diabetes.png, id=39, 722.7pt x 722.7pt>
 File: edad_diabetes.png Graphic file (type png)
 <use edad_diabetes.png>
-Package pdftex.def Info: edad_diabetes.png  used on input line 217.
+Package pdftex.def Info: edad_diabetes.png  used on input line 216.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 <edad_no_diabetes.png, id=40, 722.7pt x 722.7pt>
 File: edad_no_diabetes.png Graphic file (type png)
 <use edad_no_diabetes.png>
-Package pdftex.def Info: edad_no_diabetes.png  used on input line 224.
+Package pdftex.def Info: edad_no_diabetes.png  used on input line 223.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
  [3 <./desc_diabetes.png> <./desc_sana.png> <./bar_diabetes.png> <./edad_muestra.png> <./edad_diabetes.png>]
 <glucosa_diabetes.png, id=51, 722.7pt x 722.7pt>
 File: glucosa_diabetes.png Graphic file (type png)
 <use glucosa_diabetes.png>
-Package pdftex.def Info: glucosa_diabetes.png  used on input line 235.
+Package pdftex.def Info: glucosa_diabetes.png  used on input line 234.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 <glucosa_sanas.png, id=52, 722.7pt x 722.7pt>
 File: glucosa_sanas.png Graphic file (type png)
 <use glucosa_sanas.png>
-Package pdftex.def Info: glucosa_sanas.png  used on input line 244.
+Package pdftex.def Info: glucosa_sanas.png  used on input line 243.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 <glucosa_bar_diabetes.png, id=53, 722.7pt x 722.7pt>
 File: glucosa_bar_diabetes.png Graphic file (type png)
 <use glucosa_bar_diabetes.png>
-Package pdftex.def Info: glucosa_bar_diabetes.png  used on input line 253.
+Package pdftex.def Info: glucosa_bar_diabetes.png  used on input line 252.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 <glucosa_bar_sanas.png, id=54, 722.7pt x 722.7pt>
 File: glucosa_bar_sanas.png Graphic file (type png)
 <use glucosa_bar_sanas.png>
-Package pdftex.def Info: glucosa_bar_sanas.png  used on input line 260.
+Package pdftex.def Info: glucosa_bar_sanas.png  used on input line 259.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
-LaTeX Info: Redefining \. on input line 264.
-LaTeX Info: Redefining \% on input line 264.
+LaTeX Info: Redefining \. on input line 263.
+LaTeX Info: Redefining \% on input line 263.
  [4 <./edad_no_diabetes.png> <./glucosa_diabetes.png> <./glucosa_sanas.png> <./glucosa_bar_diabetes.png>]
-LaTeX Info: Redefining \. on input line 282.
-LaTeX Info: Redefining \% on input line 282.
- [5
-
- <./glucosa_bar_sanas.png>] (./Diabetes.bbl)
-LaTeX Info: Redefining \. on input line 287.
-LaTeX Info: Redefining \% on input line 287.
-LaTeX Info: Redefining \. on input line 287.
-LaTeX Info: Redefining \% on input line 287.
+<corr.png, id=62, 779.91376pt x 223.58531pt>
+File: corr.png Graphic file (type png)
+<use corr.png>
+Package pdftex.def Info: corr.png  used on input line 281.
+(pdftex.def)             Requested size: 220.7163pt x 63.27213pt.
+LaTeX Info: Redefining \. on input line 299.
+LaTeX Info: Redefining \% on input line 299.
+ [5 <./glucosa_bar_sanas.png> <./corr.png>] (./Diabetes.bbl)
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
  [6
 
 ] (./Diabetes.aux
@@ -672,18 +675,18 @@ LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
- 17418 strings out of 479383
- 334543 string characters out of 5875831
- 636012 words of memory out of 5000000
- 34146 multiletter control sequences out of 15000+600000
+ 17425 strings out of 479383
+ 334620 string characters out of 5875831
+ 636021 words of memory out of 5000000
+ 34152 multiletter control sequences out of 15000+600000
  418045 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,12n,85p,963b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Diabetes.pdf (6 pages, 425304 bytes).
+Output written on Diabetes.pdf (6 pages, 451155 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
