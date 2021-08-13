@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 11:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 11:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -600,12 +600,6 @@ Package pdftex.def Info: dataset_completo.png  used on input line 167.
 LaTeX Info: Redefining \. on input line 177.
 LaTeX Info: Redefining \% on input line 177.
 [2 <./dataset_sucio.png> <./dataset_limpio.png> <./dataset_completo.png>]
-
-LaTeX Warning: Reference `desc_diabetes' on page 3 undefined on input line 177.
-
-
-LaTeX Warning: Reference `desc_sana' on page 3 undefined on input line 177.
-
 <desc_diabetes.png, id=35, 645.91313pt x 201.75375pt>
 File: desc_diabetes.png Graphic file (type png)
 <use desc_diabetes.png>
@@ -638,7 +632,7 @@ Package pdftex.def Info: edad_no_diabetes.png  used on input line 224.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
 LaTeX Info: Redefining \. on input line 228.
 LaTeX Info: Redefining \% on input line 228.
-[3 <./desc_diabetes.png> <./desc_sana.png> <./bar_diabetes.png> <./edad_muestra.png> <./edad_diabetes.png>]
+ [3 <./desc_diabetes.png> <./desc_sana.png> <./bar_diabetes.png> <./edad_muestra.png> <./edad_diabetes.png>]
 <glucosa_diabetes.png, id=51, 722.7pt x 722.7pt>
 File: glucosa_diabetes.png Graphic file (type png)
 <use glucosa_diabetes.png>
@@ -661,21 +655,17 @@ LaTeX Info: Redefining \% on input line 256.
 ] (./Diabetes.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 17405 strings out of 479383
- 334208 string characters out of 5875831
+ 17403 strings out of 479383
+ 334182 string characters out of 5875831
  635986 words of memory out of 5000000
- 34135 multiletter control sequences out of 15000+600000
+ 34133 multiletter control sequences out of 15000+600000
  418045 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,12n,85p,963b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Diabetes.pdf (5 pages, 396283 bytes).
+Output written on Diabetes.pdf (5 pages, 397819 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
