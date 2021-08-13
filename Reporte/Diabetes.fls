@@ -777,6 +777,8 @@ INPUT ./glucosa_bar_sanas.png
 INPUT glucosa_bar_sanas.png
 INPUT ./glucosa_bar_sanas.png
 INPUT ./glucosa_bar_sanas.png
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
 INPUT ./Diabetes.bbl
 INPUT Diabetes.bbl
 INPUT ./Diabetes.bbl
