@@ -22,3 +22,11 @@ Este es el repositorio del proyecto del equipo 5
 	</a>
 	<br>
 </div>
+
+## Archivos
+
+:point_right: [Reporte PDF](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Reporte/Diabetes.pdf) 
+
+:point_right: [Notebook](https://colab.research.google.com/github/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Proyecto.ipynb#scrollTo=QPrtoTh1EdML)
+
+:point_right: [Postwork 6](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Postwork_6%20Automatizaci%C3%B3n%20y%20APIs.ipynb)
