@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628866607 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628866708
+["bibtex Diabetes"] 1628867515 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628867516
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628866708 1584 14341554ccce44281d8eaca52e662117 "pdflatex"
+  "Diabetes.aux" 1628867516 1984 22b185f22a6fead1e94d486bd87f60bf "pdflatex"
   "bibliografia.bib" 1628814691 811 81ad96b53c6d384ab34e34cef693c891 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628866707 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628866708
+["pdflatex"] 1628867515 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628867516
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -194,15 +194,17 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1616952564 33301 a3134070eacafb10b1f371612ce2650d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1620609914 4885835 225b430335ea75120e4d14f95280dfb9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1620609895 2635856 434078a4a03d44ff23e09e73896b4b6d ""
-  "Diabetes.aux" 1628866708 1584 14341554ccce44281d8eaca52e662117 "pdflatex"
-  "Diabetes.bbl" 1628866607 49 0eba253fc001332e731e8aba3f23127b "bibtex Diabetes"
-  "Diabetes.tex" 1628866705 8969 8d9bf19921a029a109ead101502d13cc ""
+  "Diabetes.aux" 1628867516 1984 22b185f22a6fead1e94d486bd87f60bf "pdflatex"
+  "Diabetes.bbl" 1628867515 49 0eba253fc001332e731e8aba3f23127b "bibtex Diabetes"
+  "Diabetes.tex" 1628867513 9471 10fbe25aa4b1c021473527cb1c5f6827 ""
   "bar_diabetes.png" 1628863946 6310 c8f0b8fb04e7b02b01e63702d42fc62b ""
   "dataset_completo.png" 1628861035 30172 b086d9bd8917468f9bbf959dcc89231b ""
   "dataset_limpio.png" 1628860819 24433 8c42bcffc48255acc4fff7e6d6148216 ""
   "dataset_sucio.png" 1628860603 24694 60349cb13dd18f87234d5c4376097fb2 ""
+  "edad_diabetes.png" 1628867168 26630 75872a385e178cf648dd0d3cadec2eeb ""
   "edad_muestra.png" 1628866597 28808 bf44b9463a134ac93b10bc3858eb32ad ""
+  "edad_no_diabetes.png" 1628867504 27564 4ec94e8d22abb12d3656844a7fedc251 ""
   (generated)
-  "Diabetes.log"
-  "Diabetes.pdf"
   "Diabetes.aux"
+  "Diabetes.pdf"
+  "Diabetes.log"
