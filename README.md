@@ -1,4 +1,4 @@
-# Proyecto_BEDU_Equipo_5
+# Proyecto BEDU Equipo 5: Procesamiento de Datos con Python
 Este es el repositorio del proyecto del equipo 5
 
 ## Equipo: :alien:
