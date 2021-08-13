@@ -767,6 +767,16 @@ INPUT ./glucosa_sanas.png
 INPUT glucosa_sanas.png
 INPUT ./glucosa_sanas.png
 INPUT ./glucosa_sanas.png
+INPUT ./glucosa_bar_diabetes.png
+INPUT ./glucosa_bar_diabetes.png
+INPUT glucosa_bar_diabetes.png
+INPUT ./glucosa_bar_diabetes.png
+INPUT ./glucosa_bar_diabetes.png
+INPUT ./glucosa_bar_sanas.png
+INPUT ./glucosa_bar_sanas.png
+INPUT glucosa_bar_sanas.png
+INPUT ./glucosa_bar_sanas.png
+INPUT ./glucosa_bar_sanas.png
 INPUT ./Diabetes.bbl
 INPUT Diabetes.bbl
 INPUT ./Diabetes.bbl

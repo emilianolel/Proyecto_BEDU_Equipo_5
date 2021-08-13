@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -475,6 +475,10 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (./Diabetes.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
+
+
+LaTeX Warning: Label `fig:glucosa_bar_diabetes' multiply defined.
+
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
@@ -643,32 +647,51 @@ File: glucosa_sanas.png Graphic file (type png)
 <use glucosa_sanas.png>
 Package pdftex.def Info: glucosa_sanas.png  used on input line 244.
 (pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
-LaTeX Info: Redefining \. on input line 251.
-LaTeX Info: Redefining \% on input line 251.
- [4 <./edad_no_diabetes.png> <./glucosa_diabetes.png> <./glucosa_sanas.png>] (./Diabetes.bbl)
-LaTeX Info: Redefining \. on input line 256.
-LaTeX Info: Redefining \% on input line 256.
-LaTeX Info: Redefining \. on input line 256.
-LaTeX Info: Redefining \% on input line 256.
+<glucosa_bar_diabetes.png, id=53, 722.7pt x 722.7pt>
+File: glucosa_bar_diabetes.png Graphic file (type png)
+<use glucosa_bar_diabetes.png>
+Package pdftex.def Info: glucosa_bar_diabetes.png  used on input line 253.
+(pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
+<glucosa_bar_sanas.png, id=54, 722.7pt x 722.7pt>
+File: glucosa_bar_sanas.png Graphic file (type png)
+<use glucosa_bar_sanas.png>
+Package pdftex.def Info: glucosa_bar_sanas.png  used on input line 260.
+(pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
+ [4 <./edad_no_diabetes.png> <./glucosa_diabetes.png> <./glucosa_sanas.png> <./glucosa_bar_diabetes.png>]
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
  [5
+
+ <./glucosa_bar_sanas.png>] (./Diabetes.bbl)
+LaTeX Info: Redefining \. on input line 274.
+LaTeX Info: Redefining \% on input line 274.
+LaTeX Info: Redefining \. on input line 274.
+LaTeX Info: Redefining \% on input line 274.
+ [6
 
 ] (./Diabetes.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
-) ) 
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 17403 strings out of 479383
- 334182 string characters out of 5875831
- 635986 words of memory out of 5000000
- 34133 multiletter control sequences out of 15000+600000
+ 17416 strings out of 479383
+ 334516 string characters out of 5875831
+ 636034 words of memory out of 5000000
+ 34144 multiletter control sequences out of 15000+600000
  418045 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,12n,85p,963b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Diabetes.pdf (5 pages, 397819 bytes).
+Output written on Diabetes.pdf (6 pages, 423791 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
