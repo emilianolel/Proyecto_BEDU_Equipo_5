@@ -113,7 +113,7 @@ Teniendo en cuenta el contexto y la importancia del estudio de esta enfermedad s
 
 \section{Dataset}
 
-El dataset utilizado contiene datos recopilados del \emph{National Institute of Diabetes and Digestive and Kidney Diseases}. Cada registro contiene ciertos parámetros de mujeres de la India de, al menos 21 años. Los campos del dataset son los siguientes:
+El dataset utilizado contiene datos recopilados del \emph{National Institute of Diabetes and Digestive and Kidney Diseases} y se puede consultar en la siguiente liga \url{https://www.kaggle.com/mathchi/diabetes-data-set}. Cada registro contiene ciertos parámetros de mujeres de la India de, al menos 21 años. Los campos del dataset son los siguientes:
 
 \begin{itemize}
 	\item \textbf{Pregnancies:} Número de veces que se ha embarazado.
@@ -130,6 +130,49 @@ El dataset utilizado contiene datos recopilados del \emph{National Institute of 
 
 \section{Limpieza de los datos}
 
+En general, el dataset se encontraba muy limpio, a excepción de unos valores NaN.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{dataset_sucio.png}
+	\caption{Dataset con el que se va a trabajar.}%
+	\label{fig:dataset_sucio}
+\end{figure}
+
+Estos valores NaN se sustituyeron por $0$, resultando:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{dataset_limpio.png}
+	\caption{Dataset ya ``limpio''}%
+	\label{fig:dataset_limpio}
+\end{figure}
+
+Por último, al dataset se le agregó un nuevo campo llamado ``ComposicionCorporal'', denotado como ``cc'' en la ecuación [\ref{cc}], con variables categóricas que indican el nivel del índice de masa corporal, es decir:
+
+\begin{equation}\label{cc}
+	cc=
+	\begin{cases}
+		\text{Bajo, si      } BMI \leq 18.85\\
+		\text{Normal, si    } 18.5 < BMI \leq 24.9\\
+		\text{Elevado, si   } 24.9 < BMI \leq 29.9\\
+		\text{Obesidad, si  } 29.9 < BMI
+	\end{cases}
+\end{equation}
+
+Resultando:
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.9\linewidth]{dataset_completo.png}
+	\caption{Dataset completo.}%
+	\label{fig:dataset_completo}
+\end{figure}
+
+
+\section{Análisis Exploratorio}
+
+Una vez se obtuvo el dataset [\ref{fig:dataset_completo}] procedemos a realizar un análisis exploratorio de los datos.
 
 
 \onecolumn{
