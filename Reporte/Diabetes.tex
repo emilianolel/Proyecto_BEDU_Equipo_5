@@ -123,7 +123,7 @@ El dataset utilizado contiene datos recopilados del \emph{National Institute of 
 	\item \textbf{BMI:} Índice de masa corporal.
 	\item \textbf{DiabetesPedigreeFunction:} Diabetes pedigree function.
 	\item \textbf{Age:} Edad.
-	\item \textbf{Outcome:} 0 o 1.
+	\item \textbf{Outcome:} diabetes 0 o no diabetes (\emph{sana}) 1.
 \end{itemize}
 
 
@@ -274,6 +274,13 @@ Para realizar las gráficas, figuras [\ref{fig:glucosa_bar_diabetes}] y [\ref{fi
 
 Resulta ser que $128$ mujeres \emph{sanas} deberían tener diabetes por su alto nivel de glucosa en la sangre, sin embargo salieron negativas en la prueba.
 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\linewidth]{emb_diabetes.png}
+	\caption{Gráfica de barras que muestra la cantidad de mujeres con diabetes según su número de embarazos.}%
+	\label{fig:emb_diabetes}
+\end{figure}
+
 Otro resultado a destacar lo muestra la matriz de correlación, tabla [\ref{fig:corr}].
 
 \begin{figure}[H]
@@ -341,7 +348,11 @@ Los resultados anteriores hablan de una segmentación de la población de mujere
 
 Claramente los factores que pueden derivar al desarrollo de la diabetes son varios y en general dependen de cada cuerpo, sin embargo, se pudo notar cierta inclinación de ciertos factores de riesgo que incrementan esta posibilidad.
 
+Además se puede observar cierta relación entre algunos factores de riesgo que se relacionan con la diabetes.
 
+Algo curioso a señalar es que, mientras menos embarazos tenga una mujer, mayor es la probabilidad de que esta desarrolle esta enfermedad, figura [\ref{fig:emb_diabetes}].
+
+En México, según la Encuesta Nacional de Salud y Nutrición, ENSANUT, en 2006, la prevalencia de la diabetes sea mayor en las mujeres se delinea más claramente mientras mayor es la edad, siendo que en el grupo de edad de 50 a 59 años, la prevalencia llegó a un 14.2\% en mujeres y 12.7\% en hombres, mientras que en el grupo de 60 a 69 años, la prevalencia fue de 21.3\% en mujeres y 16.8\% en hombres\cite{diabmx}. 
 
 
 

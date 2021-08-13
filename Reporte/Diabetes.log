@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 15:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.5.9)  13 AUG 2021 16:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -656,70 +656,80 @@ Package pdftex.def Info: glucosa_bar_sanas.png  used on input line 259.
 LaTeX Info: Redefining \. on input line 263.
 LaTeX Info: Redefining \% on input line 263.
  [4 <./edad_no_diabetes.png> <./glucosa_diabetes.png> <./glucosa_sanas.png> <./glucosa_bar_diabetes.png>]
-<corr.png, id=62, 779.91376pt x 223.58531pt>
+<emb_diabetes.png, id=62, 722.7pt x 722.7pt>
+File: emb_diabetes.png Graphic file (type png)
+<use emb_diabetes.png>
+Package pdftex.def Info: emb_diabetes.png  used on input line 279.
+(pdftex.def)             Requested size: 159.40579pt x 159.4025pt.
+<corr.png, id=63, 779.91376pt x 223.58531pt>
 File: corr.png Graphic file (type png)
 <use corr.png>
-Package pdftex.def Info: corr.png  used on input line 281.
+Package pdftex.def Info: corr.png  used on input line 288.
 (pdftex.def)             Requested size: 220.7163pt x 63.27213pt.
-<BloodPressure_Glucose.png, id=63, 429.605pt x 366.36874pt>
+<BloodPressure_Glucose.png, id=64, 429.605pt x 366.36874pt>
 File: BloodPressure_Glucose.png Graphic file (type png)
 <use BloodPressure_Glucose.png>
-Package pdftex.def Info: BloodPressure_Glucose.png  used on input line 294.
+Package pdftex.def Info: BloodPressure_Glucose.png  used on input line 301.
 (pdftex.def)             Requested size: 159.40579pt x 135.94003pt.
-<Insulin_Glucose.png, id=64, 429.605pt x 366.36874pt>
+<Insulin_Glucose.png, id=65, 429.605pt x 366.36874pt>
 File: Insulin_Glucose.png Graphic file (type png)
 <use Insulin_Glucose.png>
-Package pdftex.def Info: Insulin_Glucose.png  used on input line 301.
+Package pdftex.def Info: Insulin_Glucose.png  used on input line 308.
 (pdftex.def)             Requested size: 159.40579pt x 135.94003pt.
-<Pregnancies_Glucose.png, id=65, 429.605pt x 366.36874pt>
+LaTeX Info: Redefining \. on input line 312.
+LaTeX Info: Redefining \% on input line 312.
+ [5 <./glucosa_bar_sanas.png> <./emb_diabetes.png> <./corr.png> <./BloodPressure_Glucose.png>]
+<Pregnancies_Glucose.png, id=73, 429.605pt x 366.36874pt>
 File: Pregnancies_Glucose.png Graphic file (type png)
 <use Pregnancies_Glucose.png>
-Package pdftex.def Info: Pregnancies_Glucose.png  used on input line 308.
+Package pdftex.def Info: Pregnancies_Glucose.png  used on input line 315.
 (pdftex.def)             Requested size: 159.40579pt x 135.94003pt.
-<SkinThickness_Glucose.png, id=66, 429.605pt x 366.36874pt>
+<SkinThickness_Glucose.png, id=74, 429.605pt x 366.36874pt>
 File: SkinThickness_Glucose.png Graphic file (type png)
 <use SkinThickness_Glucose.png>
-Package pdftex.def Info: SkinThickness_Glucose.png  used on input line 315.
+Package pdftex.def Info: SkinThickness_Glucose.png  used on input line 322.
 (pdftex.def)             Requested size: 159.40579pt x 135.94003pt.
-LaTeX Info: Redefining \. on input line 319.
-LaTeX Info: Redefining \% on input line 319.
- [5 <./glucosa_bar_sanas.png> <./corr.png> <./BloodPressure_Glucose.png> <./Insulin_Glucose.png> <./Pregnancies_Glucose.png>]
 <BloodPressure_BMI.png, id=75, 429.605pt x 366.36874pt>
 File: BloodPressure_BMI.png Graphic file (type png)
 <use BloodPressure_BMI.png>
-Package pdftex.def Info: BloodPressure_BMI.png  used on input line 324.
+Package pdftex.def Info: BloodPressure_BMI.png  used on input line 331.
 (pdftex.def)             Requested size: 159.40579pt x 135.94003pt.
 <BMI_Glucose.png, id=76, 430.60875pt x 366.36874pt>
 File: BMI_Glucose.png Graphic file (type png)
 <use BMI_Glucose.png>
-Package pdftex.def Info: BMI_Glucose.png  used on input line 331.
+Package pdftex.def Info: BMI_Glucose.png  used on input line 338.
 (pdftex.def)             Requested size: 159.40579pt x 135.62698pt.
-LaTeX Info: Redefining \. on input line 349.
-LaTeX Info: Redefining \% on input line 349.
- [6 <./SkinThickness_Glucose.png> <./BloodPressure_BMI.png> <./BMI_Glucose.png>] (./Diabetes.bbl)
 LaTeX Info: Redefining \. on input line 354.
 LaTeX Info: Redefining \% on input line 354.
-LaTeX Info: Redefining \. on input line 354.
-LaTeX Info: Redefining \% on input line 354.
+ [6 <./Insulin_Glucose.png> <./Pregnancies_Glucose.png> <./SkinThickness_Glucose.png> <./BloodPressure_BMI.png> <./BMI_Glucose.png>]
+LaTeX Info: Redefining \. on input line 360.
+LaTeX Info: Redefining \% on input line 360.
  [7
+
+] (./Diabetes.bbl)
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
+ [8
 
 ] (./Diabetes.aux
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
 ) ) 
 Here is how much of TeX's memory you used:
- 17467 strings out of 479383
- 335642 string characters out of 5875831
- 636075 words of memory out of 5000000
- 34188 multiletter control sequences out of 15000+600000
+ 17475 strings out of 479383
+ 335783 string characters out of 5875831
+ 636088 words of memory out of 5000000
+ 34195 multiletter control sequences out of 15000+600000
  418045 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,12n,85p,963b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Diabetes.pdf (7 pages, 650127 bytes).
+Output written on Diabetes.pdf (8 pages, 666961 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 149 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
