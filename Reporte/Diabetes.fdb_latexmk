@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Diabetes"] 1628891668 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628891985
+["bibtex Diabetes"] 1628892751 "Diabetes.aux" "Diabetes.bbl" "Diabetes" 1628892753
   "/usr/share/texmf-dist/bibtex/bst/base/abbrv.bst" 1616952564 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "Diabetes.aux" 1628891985 5719 17c1f84319b1d81ca1ace6d0fbf43c74 "pdflatex"
-  "bibliografia.bib" 1628889828 1067 3fc760754b3d50a8ae6f51ea5c352d97 ""
+  "Diabetes.aux" 1628892752 5757 9155e23e3264b47e975f8dbb99beb120 "pdflatex"
+  "bibliografia.bib" 1628892462 1474 ef044a16d4d79bb07112ffdab362b835 ""
   (generated)
   "Diabetes.bbl"
   "Diabetes.blg"
-["pdflatex"] 1628891983 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628891985
+["pdflatex"] 1628892751 "Diabetes.tex" "Diabetes.pdf" "Diabetes" 1628892753
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1616952564 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1616952564 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1616952564 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -197,9 +197,9 @@
   "BMI_Glucose.png" 1628882863 62203 9d4d95b7509e866e14cc8a3d80356114 ""
   "BloodPressure_BMI.png" 1628882836 52865 ed7bcef2ec11abe863f54baa0f1bfd51 ""
   "BloodPressure_Glucose.png" 1628882845 55424 3fe94061e19019c657be01a63aa582bf ""
-  "Diabetes.aux" 1628891985 5719 17c1f84319b1d81ca1ace6d0fbf43c74 "pdflatex"
-  "Diabetes.bbl" 1628891668 439 042efd8ed3db608d83f0ca19be64dd1e "bibtex Diabetes"
-  "Diabetes.tex" 1628891982 19126 8bc4c4033f01980fcc0bea239406f3fa ""
+  "Diabetes.aux" 1628892752 5757 9155e23e3264b47e975f8dbb99beb120 "pdflatex"
+  "Diabetes.bbl" 1628892751 808 a1c29a24bd23d6a9cba4d7f2334c7c7b "bibtex Diabetes"
+  "Diabetes.tex" 1628892746 19483 95d1603a67ef369d2418cf9b773248f5 ""
   "Insulin_Glucose.png" 1628882868 40636 45f8d93e427c7961dde4cf87bdb2a6e1 ""
   "Pregnancies_Glucose.png" 1628882875 41321 c02348291fe5e4c99838eb49c1ac5e7d ""
   "SkinThickness_Glucose.png" 1628882880 51019 dbf952ee41308077bde48cc0c26ace09 ""
@@ -221,6 +221,6 @@
   "glucosa_sanas.png" 1628872060 13799 a2ddb91be02ea27db832316c4222e05b ""
   "porc_peso.png" 1628891468 6566 04d4f53b6c5df9d30923de45b09d16fb ""
   (generated)
+  "Diabetes.log"
   "Diabetes.pdf"
   "Diabetes.aux"
-  "Diabetes.log"
