@@ -33,6 +33,6 @@ Aquí se encuentra el reporte en pdf del análisis de los datos recopilados.
 
 Aquí se encuentra el notebook de análisis de los datos.
 
-:point_right: [Postwork 6](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Postwork_6%20Automatizaci%C3%B3n%20y%20APIs.ipynb)
+:point_right: [Postwork 6](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Postworks/Postwork_6%20Automatizaci%C3%B3n%20y%20APIs.ipynb)
 
 Aquí se encuentra el notebook del postwork 6.
