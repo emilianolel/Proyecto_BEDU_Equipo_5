@@ -41,7 +41,7 @@ Aquí se encuentra el notebook del postwork 6.
 
 Aquí se encuentra el link del video.
 
-:point_right: [Presentación](https://docs.google.com/presentation/d/1GoR5kLZtkx8k-jRrFBspHSygYFoKeAvjFM9uH7pLXmk/edit#slide=id.ge5e2ab6736_0_167)
+:point_right: [Presentación](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Presentaci%C3%B3n/Proyecto%20Final%20-%20Procesamiento-de-Datos-con-Python-Santander_2020_2021.pdf)
 
 Aquí se encuentra el link de la presentación.
 
