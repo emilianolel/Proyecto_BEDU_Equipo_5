@@ -36,3 +36,12 @@ Aquí se encuentra el notebook de análisis de los datos.
 :point_right: [Postwork 6](https://github.com/emilianolel/Proyecto_BEDU_Equipo_5/blob/main/Postworks/Postwork_6%20Automatizaci%C3%B3n%20y%20APIs.ipynb)
 
 Aquí se encuentra el notebook del postwork 6.
+
+:point_right: [Video](https://www.youtube.com/watch?v=R7RVeVo9YsU)
+
+Aquí se encuentra el link del video.
+
+:point_right: [Presentación](https://docs.google.com/presentation/d/1GoR5kLZtkx8k-jRrFBspHSygYFoKeAvjFM9uH7pLXmk/edit#slide=id.ge5e2ab6736_0_167)
+
+Aquí se encuentra el link de la presentación.
+
